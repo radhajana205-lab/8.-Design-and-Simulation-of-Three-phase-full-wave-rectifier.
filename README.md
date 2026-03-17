@@ -43,10 +43,10 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
-![WhatsApp Image 2026-03-15 at 3 29 53 PM](https://github.com/user-attachments/assets/6ddd1292-1b72-4364-80f9-372bdd6411d6)
+![WhatsApp Image 2026-03-15 at 3 30 12 PM](https://github.com/user-attachments/assets/a66dab32-21d1-4540-9790-293920a9e3d3)
 
 ## Output
-![WhatsApp Image 2026-03-15 at 3 30 12 PM](https://github.com/user-attachments/assets/a66dab32-21d1-4540-9790-293920a9e3d3)
+![WhatsApp Image 2026-03-15 at 3 29 53 PM](https://github.com/user-attachments/assets/89199b09-032f-4cf9-b35e-cdb5b64200f0)
 
 ## Result
 Thus,Three phase full wave rectifier was designed,simulated and analysed using MATLAB simulink
